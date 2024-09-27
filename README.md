@@ -8,4 +8,4 @@ This bot need:
 - the following node packages: discord.js node-schedule dotenv path fs mysql2 chart.js
 - mysql database to save people clockin data
 
-This bot has been tested with pterodactyl pannel, and it worked perfectly.
+This bot has been tested with pterodactyl panel, and it worked perfectly.
